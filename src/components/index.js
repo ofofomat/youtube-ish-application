@@ -8,6 +8,7 @@ import Sidebar from './Sidebar';
 import Videos from './Videos';
 import VideoCard from './VideoCard';
 import ChannelCard from './ChannelCard';
+import Loader from './Loader';
 
 export { Navbar };
 export { Feed };
@@ -19,3 +20,4 @@ export { Sidebar };
 export { Videos };
 export { VideoCard };
 export { ChannelCard };
+export { Loader };
